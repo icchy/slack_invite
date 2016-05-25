@@ -8,4 +8,4 @@ auto invitation for slack
 echo -n "salt:secret" | sha256sum
 ```
 
- * set (Slack API Tokena)[https://api.slack.com/web] and email
+ * set [Slack API Token](https://api.slack.com/web) and email
